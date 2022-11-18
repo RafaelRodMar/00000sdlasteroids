@@ -1,0 +1,16 @@
+fnt font sansation.ttf
+img background background.jpg
+img fire_blue fire_blue.png
+img gameover gameover.png
+img menu menu.png
+img rock rock.png
+img rock_small rock_small.png
+img shield shield.png
+img spaceship spaceship.png
+img splash splash.png
+img type_B type_B.png
+img type_C type_C.png
+snd shipexplosion explosion+3.wav
+snd explosion explosion+6.wav
+snd gameover gameover.wav
+snd laser laserblasts.wav
